@@ -1,8 +1,8 @@
 ---
 theme: jekyll-theme-modernist
 ---
-### | Applied Data Scientist | Master’s Candidate @  University
-dedicated to evaluating high-stakes algorithms for transparency and equity. I bridge the gap between statistical analysis and social impact policy.
+### Felisha White | Applied Data Scientist | Master’s Candidate @ Howard University
+Dedicated to evaluating high-stakes algorithms for transparency and equity. I bridge the gap between statistical analysis and social impact policy.
 
 ### ⚖️ The Mission
 I evaluate high-stakes decision systems through the lens of equity and accountability. I am passionate about bridging the gap between rigorous data science and social impact policy.
