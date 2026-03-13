@@ -11,6 +11,7 @@ I evaluate high-stakes decision systems through the lens of equity and accountab
 ---
 
 ### 🛠️ Tech Stack & Tools
+
 | Category | Tools |
 | :--- | :--- |
 | **Analysis** | Python, R, SQL, Pandas, NumPy |
