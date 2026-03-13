@@ -15,8 +15,11 @@ I evaluate high-stakes decision systems through the lens of equity and accountab
 | Category | Tools |
 | :--- | :--- |
 | **Analysis** | Python, R, SQL, Pandas, NumPy |
+
 | **ML & Auditing** | Scikit-learn, Fairlearn, AIF360 |
+
 | **Visualization** | Matplotlib, Seaborn, Tableau, Plotly |
+
 | **Impact** | Policy Briefings, Technical Documentation, Ethics Frameworks |
 
 ---
