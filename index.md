@@ -1,6 +1,10 @@
 ### Felisha White | Applied Data Scientist | Master’s Candidate @ Howard University
 Dedicated to evaluating high-stakes algorithms for transparency and equity. I bridge the gap between statistical analysis and social impact policy.
 
+* 📧 [Email Me](mailto: Felisha.White@outlook.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/fshepwhite)
+
+
 ### ⚖️ The Mission
 I evaluate high-stakes decision systems through the lens of equity and accountability. I am passionate about bridging the gap between rigorous data science and social impact policy.
 
@@ -15,11 +19,8 @@ I evaluate high-stakes decision systems through the lens of equity and accountab
 | Category | Tools |
 | :--- | :--- |
 | **Analysis** | Python, R, SQL, Pandas, NumPy |
-
 | **ML & Auditing** | Scikit-learn, Fairlearn, AIF360 |
-
 | **Visualization** | Matplotlib, Seaborn, Tableau, Plotly |
-
 | **Impact** | Policy Briefings, Technical Documentation, Ethics Frameworks |
 
 ---
