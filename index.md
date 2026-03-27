@@ -60,7 +60,7 @@ PUBLICATION(S)
 
 Tawiah, N. A., Appiah, E. A., & White, F. (2025). Predicting adverse childhood experiences from family environment factors: A machine learning approach. Behavioral Sciences, 15(9), 1216.
 
-Peer-reviewed research applying ML classification to predict ACEs from family environment data — with implications for early intervention policy and child welfare systems.
+Peer-reviewed research applying ML classification to predict ACEs from family environment data with implications for early intervention policy and child welfare systems.
 ### CONTACT ME 
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:felisha.shepardwhit@bison.howard.edu)
