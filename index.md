@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Your Name | Applied Data Scientist
+description: Applied Data Scientist and Master's Candidate specializing in algorithmic fairness
+---
 ### Felisha White | Applied Data Scientist | Master’s Candidate @ Howard University
 My work sits at the intersection of data science, statistics and machine learning and civil rights resesarch. I am currently examining how ML models used in neighborhood risk classification, clinical pre-screening, and public health research can encode and amplify existing inequities — particularly for Black and marginalized communities
 
@@ -8,17 +12,17 @@ As the Business Intelligence Analyst at Spelman College and a graduate researche
 
 ### How I Work
 
-* **Translating Complexity:** Built policy-oriented ML analyses of gentrification and displacement in Atlanta — translating model outputs into neighborhood typologies useful for city planners and advocates.  
+🔎 **Translating Complexity:** Built policy-oriented ML analyses of gentrification and displacement in Atlanta — translating model outputs into neighborhood typologies useful for city planners and advocates.  
 
-* **Equity-First Analysis:** Investigated bias and ethical limitations in AI-based diabetes risk screening tools, and identified data precision gaps in CDC mortality data that systematically underrepresent marginalized populations.
+⚖️ **Equity-First Analysis:** Investigated bias and ethical limitations in AI-based diabetes risk screening tools, and identified data precision gaps in CDC mortality data that systematically underrepresent marginalized populations.
 
-* **Applied Data Analysis & Institutional Research:** ** Developed models and evaluation frameworks for leadeship decision making at an HBCU — translating complex, multi-source data into clear insights
+📊 **Applied Data Analysis & Institutional Research:** ** Developed models and evaluation frameworks for leadeship decision making at an HBCU — translating complex, multi-source data into clear insights
   
-* **Public-Interest Research:** **Co-authored published research predicting adverse childhood experiences using ML.  Currently examining immigration trends through the lens of the African diaspora.
+🌱 **Public-Interest Research:** **Co-authored published research predicting adverse childhood experiences using ML.  Currently examining immigration trends through the lens of the African diaspora.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 | Category | Tools |
 | :--- | :--- |
