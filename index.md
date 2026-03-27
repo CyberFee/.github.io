@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Your Name | Applied Data Scientist
-description: Applied Data Scientist and Master's Candidate specializing in algorithmic fairness
 ---
-### Felisha White | Applied Data Scientist | Master’s Candidate @ Howard University
+
 My work sits at the intersection of data science, statistics and machine learning and civil rights resesarch. I am currently examining how ML models used in neighborhood risk classification, clinical pre-screening, and public health research can encode and amplify existing inequities — particularly for Black and marginalized communities
 
 ### The Work
