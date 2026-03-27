@@ -23,7 +23,7 @@ As the Business Intelligence Analyst at Spelman College and a graduate researche
 | Category | Tools |
 | :--- | :--- |
 | **Programming** | Python, R, SQL |
-| **Data Processing** |Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost |
+| **Data Processing** | Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost |
 | **ML & Auditing** | Linear & logistic models, ensemble methods (random forests, gradient boosting), neural networks, clustering, dimensionality reduction, NLP, time series forecasting |
 | **Visualization** | Tableau, Power BI, Matplotlib, Seaborn, ggplot2 |
 | **Geospatial** | ArcGIS, Story Maps, spatial analysis & mapping |
