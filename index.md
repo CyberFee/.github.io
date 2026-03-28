@@ -2,14 +2,12 @@
 layout: default
 ---
 
-My work centers data science, statistics and machine learning with equity focused reseach and analysis. I am currently examining how ML models used in neighborhood risk classification, clinical pre-screening, and public health research can encode and amplify existing inequities — particularly for Black and marginalized communities
-
-### My Work
+My work centers data science, statistics and machine learning with equity focused reseach and analysis. I am currently examining how ML models used in neighborhood risk classification, clinical pre-screening, and public health research can encode and amplify existing inequities — particularly for Black and marginalized communities.
 
 As the Business Intelligence Analyst at Spelman College and a master's candidate at Howard University, I've spent the last several years building the tools and frameworks that make institutional decisions more transparent. My published work and ongoing projects examine algorithmic systems in healthcare, housing, and public policy. I'm currently extending that lens to immigration trends through the framework of the African diaspora, asking how data can be used to tell a more complete and more just story
 
 
-🔎 **Translating Complexity:** Built policy-oriented ML analyses of gentrification and displacement in Atlanta — translating model outputs into neighborhood typologies useful for city planners and advocates.  
+˙✦ **Translating Complexity:** Built policy-oriented ML analyses of gentrification and displacement in Atlanta — translating model outputs into neighborhood typologies useful for city planners and advocates.  
 
 ⚖️ **Equity-First Analysis:** Investigated bias and ethical limitations in AI-based diabetes risk screening tools, and identified data precision gaps in CDC mortality data that systematically underrepresent marginalized populations.
 
@@ -19,7 +17,7 @@ As the Business Intelligence Analyst at Spelman College and a master's candidate
 
 ---
 
-### 💻 Tech Stack & Tools
+### ⚛ Tech Stack & Tools
 
 | Area | Tools |
 | :--- | :--- |
