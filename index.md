@@ -13,7 +13,7 @@ As the Business Intelligence Analyst at Spelman College and a master's candidate
 
 ⛁ **Applied Data Analysis & Institutional Research:** ** Developed models and evaluation frameworks for leadeship decision making at an HBCU — translating complex, multi-source data into clear insights
   
-🌱 **Public-Interest Research:** **Co-authored published research predicting adverse childhood experiences using ML.  Currently examining immigration trends through the lens of the African diaspora.
+♟🌱 **Public-Interest Research:** **Co-authored published research predicting adverse childhood experiences using ML.  Currently examining immigration trends through the lens of the African diaspora.
 
 ---
 
