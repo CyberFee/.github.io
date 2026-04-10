@@ -5,9 +5,9 @@ permalink: /resume/
 ---
 
 ## FELISHA WHITE
+(404) 695-717 | felisha.white@outlook.com | linkedin.com/in/fshepwhite | github.com/FelishaWhite(CyberFee)
 
-Applied Data Scientist | Machine Learning Engineer | Business Analyst | Data Visualization Specialist | Equity-Centered Analytics
-Atlanta, G.A. | (404) 695-717 | felisha.white@outlook.com | linkedin.com/in/fshepwhite | github.com/FelishaWhite(CyberFee)
+Applied Data Scientist, Machine Learning Engineer, Business Analyst, Data Visualization Specialist, Equity-Centered Analytics
 
 ## PROFESSIONAL SUMMARY
 Applied data scientist and master’s candidate in Applied Data Science and Analytics at Howard University experienced in evaluating high-stakes decision systems in complex institutions. Trained in statistical analysis, machine learning, and data visualization, with a strong focus on transparency, accountability, and equity. Proven ability to translate technical findings into policy-relevant insights for non-technical audiences. Seeking to apply applied data science skills to algorithmic accountability, civil rights research, public-interest litigation or other social impact spaces.
