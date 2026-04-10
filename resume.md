@@ -6,8 +6,6 @@ permalink: /resume/
 
 <a href="/Resume.pdf" class="btn" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 20px;">Download PDF Version</a>
 
-## Professional Summary
-... rest of your content ...
 ## FELISHA WHITE
 (404) 695-717 | felisha.white@outlook.com | linkedin.com/in/fshepwhite | github.com/FelishaWhite(CyberFee)
 
