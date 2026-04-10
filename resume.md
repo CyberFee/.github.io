@@ -30,14 +30,14 @@ Statistical analysis & predictive modeling (R / Python), program & system evalua
 
 ## PROFESSIONAL EXPERIENCE
 
-Director, Business Intelligence | Spelman College | Atlanta, GA 				February 2022-present
+### Director, Business Intelligence | Spelman College | Atlanta, GA 				February 2022-present
 *	Built an executive dashboard suite for Senior Leadership and department leads reducing ad hoc data requests by 30% and improving turnaround time for strategic decisions from weeks to days. 
 *	Developed predictive models to evaluate program impacts and measure effectiveness of student success interventions.
 *	Design and manage evaluation and reporting frameworks to ensure transparent, consistent, and evidence-based program review and strategic alignment. 
 *	Serve as a strategic partner to senior leadership, supervising analytics staff and collaborating across academic affairs, institutional research, and governance bodies to advance data-informed, accountable decision systems.
 <br><br>
 
-Research Intern (Practicum) | Black Data Lab, in collaboration with Black Lit Network | Supported by the Mellon Foundation     January 2026-present
+### Research Intern (Practicum) | Black Data Lab, in collaboration with Black Lit Network | Supported by the Mellon Foundation     January 2026-present
 *	Contributed to a digital humanities project visualizing the short stories of Edward P. Jones, building on finalized datasets produced by the Black Data Lab and Black Lit Network.
 *	Developed and applied a standardized story overview template across multiple works, ensuring structural consistency and visual clarity rather than original literary analysis.
 *	Conducted remote archival research to locate digitized historical materials documenting the Washington, D.C. neighborhoods featured in Jones's fiction, drawing on the DC Public Library's Washingtoniana collection, the Library of Congress, and related online archives.
