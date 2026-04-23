@@ -37,11 +37,17 @@ As the Business Intelligence Analyst at Spelman College and a master's candidate
 ### Featured Academic Research
 Check out my repositories below to see how I translate technical findings into social impact narratives.  
 
-**DATA STORY**
+**EQUITY FOCUSED DATA STORY**
 
 
-* **[Under the Amazon Effect: An Equity Lens](datasotry.html)**  
+* **[Under the Amazon Effect: An Equity Lens](datastory.html)**  
 Joining demographic census data and numerous outcome variables (socioeconomic, built environment, enviornmental data)to spatial data to explore the impact of corporate development on South Fulton, GA. 
+
+**IMMIGRATION POLICY FOCUSED DATA STORY**
+
+
+* **[Bordered Bodies](datastory_immig.html)**  
+Using ICE detention and apprehension data along with Census figures, this project assesses the impact of recent immigration policy changes on African Diaspora populations in the U.S.
 
 
 **HOUSING & POLICY**
