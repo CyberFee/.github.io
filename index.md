@@ -37,6 +37,11 @@ As the Business Intelligence Analyst at Spelman College and a master's candidate
 ### Featured Academic Research
 Check out my repositories below to see how I translate technical findings into social impact narratives.  
 
+**DATA STORY**
+* **Under the Amazon Effect: An Equity Lens**
+Joining demographic census data and numerous outcome variables (socioeconomic, built enviornment, enviornmental data)to spatial data to explore the impact of corporate development on South Fulton, GA. 
+(datastory.html)
+
 **HOUSING & POLICY**
 
 * **Gentrification & Displacement Risk in Atlanta**
