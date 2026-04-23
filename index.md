@@ -46,7 +46,7 @@ Joining demographic census data and numerous outcome variables (socioeconomic, b
 **IMMIGRATION POLICY FOCUSED DATA STORY**
 
 
-* **[Bordered Bodies](datastory_immig.html)**  
+* **[Bordered Bodies](datastory_immi.html)**  
 Using ICE detention and apprehension data along with Census figures, this project assesses the impact of recent immigration policy changes on African Diaspora populations in the U.S.
 
 
