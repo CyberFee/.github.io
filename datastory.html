@@ -5,43 +5,82 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Data Story: The Amazon Effect</title>
   <style>
-      body {
-        font-family: sans-serif;
-        line-height: 1.6;
-        color: #333;
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 20px;
-        background-color: #5f1e6;
-      }
-      h1 { 
-        color: #24292e; 
-        }
-      h2 { 
-        color: #24292e; margin-top: 20px;
-      }
-      .container {
-        max-width: 2000px:
-        margin: 0 auto:
-      }
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #5f1e6;
+    }
+    h1 {
+      color: #24292e;
+      line-height: 1.3;
+    }
+    h2 { 
+      color: #24292e;
+      margin-top: 24px;
+    }
+
+    p {
+      margin-bottom: 12px;
+    }
+
+    01, u1 {
+      padding-left: 20px;
+    }
+       /*full-width immersive map section*/
+    .map-section{
+      width:100vw;
+      margin-left:calc((-50vw = 50%);
+      margin-top: 40px;
+    }
+
+    .map-section iframe{
+      width: 100%;
+      height: 90vh;
+      border: 0;
+    }
+
+    .container(
+    max-width: 900px;
+    margin:0 auto:
+    }
+
+    .subheader(
+    font-size: 1.1rem;
+    color: #444;
+    margin-top: -10px;
+    }
   <style>
 </head>
 <body>
-      <h1>Data Storytelling: Under the Amazon Effect: An Equity Lens</h1>
-      <h2>Who Benefits? Who is Burdened? Unpacking Environmental and Economic Equity in South Fulton's Warehouse Boom</h2>
+    <div class="container">
+    <h1>Data Storytelling: Under the Amazon Effect: An Equity Lens</h1>
+    <h2>Who Benefits? Who is Burdened? Unpacking Environmental and Economic Equity in South Fulton's Warehouse Boom</h2>
     
-      <h2>Project Overview and Methods</h2>
-      <p>This project examines Amazon's warehouse expansion in South Fulton County in Atlanta, Georgia using spatial and demographic mapping. The analysis overlays warehouse locations with multiple data layers: demographic census data, infrastructure data on traffic, Atlanta roads and utilities (power and water), economic indicators related to housing and cost of living, and environmental factors including air, noise, light, and habitat disruption. This approach explores the disproportionate impact on historically marginalized Black communities in the South Fulton area and within the City of South Fulton.</p>
+    <h2>Project Overview and Methods</h2>
+    <p>This project examines Amazon's warehouse expansion in South Fulton County in Atlanta, Georgia using spatial and demographic mapping. The analysis overlays warehouse locations with multiple data layers: demographic census data, infrastructure data on traffic, Atlanta roads and utilities (power and water), economic indicators related to housing and cost of living, and environmental factors including air, noise, light, and habitat disruption. This approach explores the disproportionate impact on historically marginalized Black communities in the South Fulton area and within the City of South Fulton.</p>
     
-      <h2>Key Insights</h2>
-      <p>This preliminary analysis sets the foundation for additional exploration of a pattern of corporate location decisions that disproportionately and systematically target already vulnerable communities. The data demonstrate that Amazon warehouses, while framed as economic development, perpetuate and mirror historic patterns of redlining and highway construction, de-prioritizing profit over community well-being. The financial burden on these communities far exceeds the wages workers receive and compounds existing environmental and social costs.</p>
+    <h2>Key Insights</h2>
+    <p>This preliminary analysis sets the foundation for additional exploration of a pattern of corporate location decisions that disproportionately and systematically target already vulnerable communities. The data demonstrate that Amazon warehouses, while framed as economic development, perpetuate and mirror historic patterns of redlining and highway construction, de-prioritizing profit over community well-being. The financial burden on these communities far exceeds the wages workers receive and compounds existing environmental and social costs.</p>
     
-      <h2>How to Engage with This Datastory</h2>
-      <ul>
-        <li>Scroll the narrative story</li>
-        <li>Hover and click on interactive maps and visuals for details</li>
-        <li>Click highlighted text for links to external URLs</li>
-      <ul>
-      <h2>Interactive Map</h2>
-      <iframe src="https://storymaps.arcgis.com/stories/453b5ee2e2a444e59efaea73d8a010da" width="100%" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
- </div> </body> </html>
+    <h2>How to Engage with This Datastory</h2>
+    <ul>
+      <li>Scroll the narrative story</li>
+      <li>Hover and click on interactive maps and visuals for details</li>
+      <li>Click highlighted text for links to external URLs</li>
+  </ul>  
+  </div>
+    <h2>Interactive Map</h2>
+
+    <div class="map-section">
+    <iframe>
+    src="https://storymaps.arcgis.com/stories/453b5ee2e2a444e59efaea73d8a010da"
+    allowfullscreen
+    loading="lazy">
+    </iframe>
+   </div>
+</body>
+</html>
