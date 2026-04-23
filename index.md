@@ -41,10 +41,10 @@ Check out my repositories below to see how I translate technical findings into s
 
 
 * **[Under the Amazon Effect: An Equity Lens](datastory.html)**  
-Joining demographic census data and numerous outcome variables (socioeconomic, built environment, enviornmental data)to spatial data to explore the impact of corporate development on South Fulton, GA. 
+Joining demographic census data and numerous outcome variables (socioeconomic, built environment, enviornmental data)to spatial data to explore the impact of corporate development on South Fulton, GA.
+
 
 **IMMIGRATION POLICY FOCUSED DATA STORY**
-
 
 * **[Bordered Bodies](datastory_immi.html)**  
 Using ICE detention and apprehension data along with Census figures, this project assesses the impact of recent immigration policy changes on African Diaspora populations in the U.S.
