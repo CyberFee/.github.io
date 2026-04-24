@@ -52,14 +52,14 @@ Using ICE detention and apprehension data along with Census figures, this projec
 
 **COMPUTATIONAL SOCIAL JUSTICE**
 
-* **[Code of (In)Justice: Algorithmic Bias in Pretrial Risk Assessmen]**  
+* **[Code of (In)Justice: Algorithmic Bias in Pretrial Risk Assessmen](social_justice.md)**  
 Research project examining racial and socioeconomic bias in generative AI-powered bail prediction. Used priming conditions and Georgia bail reform data to show how ChatGPT reproduces discriminatory patterns from historical criminal justice data, despite claims of algorithmic neutrality.
 
 
 
 **COMPUTATIONAL SOCIAL JUSTICE & ETHICAL ADVOCACY**
 
-* **[Linguistic Diversity and Social Justice in ML, NLP and LLMs]**  
+* **[Linguistic Diversity and Social Justice in ML, NLP and LLMs](social_justice_ethics.md)**  
 Research project examining racial and socioeconomic bias in generative AI-powered bail prediction. Used priming conditions and Georgia bail reform data to show how ChatGPT reproduces discriminatory patterns from historical criminal justice data, despite claims of algorithmic neutrality.
 
 **HOUSING & POLICY**
