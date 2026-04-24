@@ -50,6 +50,18 @@ Joining demographic census data and numerous outcome variables (socioeconomic, b
 Using ICE detention and apprehension data along with Census figures, this project assesses the impact of recent immigration policy changes on African Diaspora populations in the U.S.
 
 
+**COMPUTATIONAL SOCIAL JUSTICE**
+
+* **[Code of (In)Justice: Algorithmic Bias in Pretrial Risk Assessmen]**  
+Research project examining racial and socioeconomic bias in generative AI-powered bail prediction. Used priming conditions and Georgia bail reform data to show how ChatGPT reproduces discriminatory patterns from historical criminal justice data, despite claims of algorithmic neutrality.
+
+
+
+**COMPUTATIONAL SOCIAL JUSTICE & ETHICAL ADVOCACY**
+
+* **[Linguistic Diversity and Social Justice in ML, NLP and LLMs]**  
+Research project examining racial and socioeconomic bias in generative AI-powered bail prediction. Used priming conditions and Georgia bail reform data to show how ChatGPT reproduces discriminatory patterns from historical criminal justice data, despite claims of algorithmic neutrality.
+
 **HOUSING & POLICY**
 
 * **Gentrification & Displacement Risk in Atlanta**
