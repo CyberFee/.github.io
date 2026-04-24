@@ -64,7 +64,8 @@ Research project examining racial and socioeconomic bias in generative AI-powere
 
 **HOUSING & POLICY**
 
-* **Gentrification & Displacement Risk in Atlanta**
+* **[Gentrification & Displacement Risk in Atlanta]
+* (ml_gentmod.md)**
 Multi-phase, policy-oriented ML analysis of neighborhood change and displacement risk across the Atlanta metro area. Compared classification models, modeled displacement magnitude, and used K-means clustering to validate neighborhood typologies for policy intervention.
 
 **HEALTH EQUITY & AI ETHICS**
