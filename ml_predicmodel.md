@@ -9,6 +9,9 @@ Howard University
 Data 303: Applied Machine Learning, Bias and Ethics  
 December 11, 2025
 
+___
+## Project Analysis Script
+[View the Python script](gent_atlanta_ml_analysis_f.py)
 ---
 
 ## Abstract
