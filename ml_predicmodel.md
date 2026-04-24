@@ -80,6 +80,7 @@ For classification, I evaluated models using accuracy, precision, recall, and Ar
 The Logistic Regression model achieved 92.9% overall accuracy in identifying at-risk neighborhoods, with an AUC of 0.99 indicating near-perfect discrimination between high-risk and low-risk tracts. More importantly, it achieved balanced precision (75%) and recall (75%)—meaning three out of four flagged neighborhoods were truly at-risk, and three out of four at-risk neighborhoods were successfully identified before displacement accelerated. Figure 1 displays the classification model performance including ROC curves, confusion matrices, and accuracy comparisons across all three models.
 
 **Figure 1. Classification Model Performance:** ROC curves, confusion matrices, and accuracy/precision/recall comparisons for Logistic Regression, Random Forest, and Gradient Boosting classifiers.
+![Classification Model Performance - High Displacement Prediction](gentr_class_perf_roc.png)
 
 The confusion matrices reveal important distinctions between models. Logistic Regression correctly classified 23 out of 24 low-risk tracts and 3 out of 4 high-risk tracts, with only one false positive and one false negative. Random Forest achieved perfect precision on low-risk neighborhoods but missed 2 of 4 high-risk tracts. Gradient Boosting performed worst, catching only 1 of 4 high-risk neighborhoods. For policy applications where missing at-risk neighborhoods carries significant costs, Logistic Regression's balanced error profile makes it most suitable for deployment.
 
@@ -88,6 +89,7 @@ The confusion matrices reveal important distinctions between models. Logistic Re
 Feature importance analysis revealed consistent patterns across all three classification models, identifying the strongest predictors of displacement risk. Figure 2 displays the top 10 features for each model.
 
 **Figure 2. Feature Importance Comparison:** Top 10 predictive features across Logistic Regression, Random Forest, and Gradient Boosting models.
+![Feature Importance Comparison Across Models](gentr_feature_comp.png)
 
 The top five predictors consistently emerging across models were: (1) Cost burden change from 2009 to 2019, measuring how rapidly housing costs are rising relative to income—when cost burden spikes, displacement follows; (2) Baseline cost burden in 2009, indicating neighborhoods where residents were already spending excessive income on housing and thus most vulnerable to any additional pressure; (3) The racial replacement index, directly quantifying demographic turnover through Black population decline coupled with non-Black population increase; (4) White population change from 2000 to 2020, signaling gentrification dynamics in historically Black neighborhoods; and (5) Rent change from 2009 to 2019, capturing direct price pressure. Critically, these indicators reveal that displacement risk stems from vulnerability plus pressure—a neighborhood with stable, middle-income residents can absorb moderate rent increases, but vulnerable populations facing rising costs get displaced.
 
@@ -96,7 +98,7 @@ The top five predictors consistently emerging across models were: (1) Cost burde
 The K-means clustering analysis revealed two fundamentally distinct neighborhood typologies across metro Atlanta. Figure 3 visualizes these clusters in principal component space, where the first component captures 36.9% of variance and the second captures 9.7%.
 
 **Figure 3. K-Means Clustering (k=2) in PCA Space:** Two distinct neighborhood typologies emerge, with cluster centers marked by red X symbols.
-
+![K-Means Clustering (k=2) in PCA Space](gent_k-means_clustering.png)
 Cluster 1 (purple, approximately 60 tracts) represents neighborhoods with stable demographics, lower rent increases, and less racial turnover—not necessarily wealthy areas, but stable ones. Cluster 2 (yellow, approximately 110 tracts) exhibits the classic gentrification pattern: rapid demographic change, sharp rent increases, and high racial replacement indices. The clear spatial separation validates that gentrification is not random; there are two identifiable neighborhood types with measurably different trajectories. This clustering provides an additional monitoring tool: neighborhoods showing signs of shifting from Cluster 1 to Cluster 2 characteristics represent early warning cases for intervention.
 
 ### Disparate Impacts: Racial Displacement Patterns
