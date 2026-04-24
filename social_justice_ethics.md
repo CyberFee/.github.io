@@ -14,7 +14,7 @@ Present day, the dominant languages, or languages with the most speakers across 
 
 **Figure 1: Most Spoken Languages, 2024 Statistics**
 
-[![Most Spoken Languages, 2024 Statistics](./'/Users/felishawhite/Documents/Documents 
+[![Most Spoken Languages, 2024 Statistics](data201_ling_table.png)
 
 In addition, communities of speakers of low-resourced languages may have limited access to technology and significantly smaller digital footprints, creating a system of non-representation and often misrepresentation in NLP and LLMs. For example, the standard versions of English dominate generative AI and NLP. In contrast, colloquial forms of English that reflect diverse cultural identities such as African American Vernacular English (AAVE), Jamaican Patois or the Creole languages of the south, including Louisiana Creole French and the Gullah or Geechee found in South Carolina and Georgia, are only recently being sourced through such open communities as Creole NLP (https://creole-nlp.github.io/). AmericansNLP is fostering research to include the indigenous languages of the Americas into machine learning paradigms (https://turing.iimas.unam.mx/americasnlp/). From a global perspective, other indigenous languages and several African languages are still missing or underrepresented in training models but grassroot efforts are being made to change this (Mohamed, Benelallam, Allak, & Gaanoun, 2024) (Ògúnrẹ̀mí, Nekoto & Samuel, 2023) (Cooper, Heldreth, & Hutchinson, 2024).
 
