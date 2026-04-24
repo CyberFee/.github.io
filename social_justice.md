@@ -2,11 +2,6 @@
 
 # Code of (In)Justice: Algorithmic Bias in Pretrial Risk Assessment
 
-**Felisha White** | Applied Data Science and Analytics, Howard University  
-**Course:** Data 201: Computational Social Justice  
-**Instructor:** Dr. Symone Campbell  
-**Date:** December 9, 2024
-
 ---
 
 ## Introduction
