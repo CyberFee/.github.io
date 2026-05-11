@@ -1,10 +1,8 @@
-<div style="background-color: #FFFDD0; padding: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-
 # Code of (In)Justice: Algorithmic Bias in Pretrial Risk Assessment
 
 ---
 
-## Introduction
+## Introduction  
 
 As of 2022, approximately 2 million people are confined within the US criminal justice system, with 33% (660,000) in city- or county-run jails. The majority are awaiting trial, held under a bail and bail-bond system that:
 
@@ -169,5 +167,3 @@ Menefee, M. R. (2018). The role of bail and pretrial detention in the reproducti
 Noble, S. U. (2018). *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York University Press.
 
 Schnacke, T. R., Jones, M. R., & Brooker, C. M. (2010). The history of bail and pretrial release. PJI, Pretrial Justice Institute.
-
-</div>
