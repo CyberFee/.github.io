@@ -1,5 +1,3 @@
-<div style="background-color: #FFFDD0; padding: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-
 # Linguistic Justice in Language Technologies
 
 ## Introduction
@@ -108,5 +106,3 @@ A branch of artificial intelligence (AI) that uses machine learning to enable co
 - Search engines 
 - Chatbots for customer service 
 - Voice-operated GPS systems
-
-</div>
