@@ -4,7 +4,7 @@ layout: default
 
 My work centers data science, statistics and machine learning with equity focused research and analysis. I am currently examining how ML models used in neighborhood risk classification, clinical pre-screening, and public health research can encode and amplify existing inequities — particularly for Black and marginalized communities.
 
-<a href="https://github.com/CyberFee/index/raw/main/Resume.pdf" 
+<a href="https://github.com/CyberFee/github.io/raw/main/Resume.pdf" 
    class="btn" 
    style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 20px;">
    To view or download my resume, click here
