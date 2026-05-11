@@ -1,13 +1,11 @@
-<div style="background-color: #FFFDD0; padding: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-
 # Atlanta Gentrification and Displacement: A Machine Learning Approach to Predicting Neighborhood Transformation
 
 **Felisha White**  
 Applied Data Science & Analytics Program  
-Howard University
+Howard University  
 
 Data 303: Applied Machine Learning, Bias and Ethics  
-December 11, 2025
+December 11, 2025  
 
 ___
 ## Project Analysis Script
@@ -158,5 +156,3 @@ U.S. Census Bureau. (2009, 2014, 2019). American Community Survey 5-Year Estimat
 
 
 Atlanta Regional Commission. (n.d.). GIS data for Atlanta metropolitan area neighborhoods.
-
-</div>
