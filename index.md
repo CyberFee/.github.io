@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## Hi! I'm Felisha White
  
 Welcome to my GitHub page! This is where my work, research, and approach to data come together. I'll start with what I believe.
 
