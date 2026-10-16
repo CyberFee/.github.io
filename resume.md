@@ -15,7 +15,7 @@ permalink: /resume/
 Applied data scientist and master’s candidate in Applied Data Science and Analytics at Howard University experienced in evaluating high-stakes decision systems in complex institutions. Trained in statistical analysis, machine learning, and data visualization, with a strong focus on transparency, accountability, and equity. Proven ability to translate technical findings into policy-relevant insights for non-technical audiences. Seeking to apply applied data science skills to algorithmic accountability, civil rights research, public-interest litigation or other social impact spaces.
 
 ## EDUCATION
-Howard University | Washington, D.C. | Master of Science in Applied Data Science and Analytics | Expected May 2026
+Howard University | Washington, D.C. | Master of Science in Applied Data Science and Analytics  
 Towson University | Towson, MD | Master of Arts in Experimental Psychology
 North Carolina State University | Raleigh, NC Bachelor of Arts in Psychology
 
@@ -32,7 +32,7 @@ Statistical analysis & predictive modeling (R / Python), program & system evalua
 
 ## PROFESSIONAL EXPERIENCE
 
-### Director, Business Intelligence | Spelman College | Atlanta, GA 				February 2022-present
+### Director, Business Intelligence | Spelman College | Atlanta, GA 				March 2026 - present
 *	Built an executive dashboard suite for Senior Leadership and department leads reducing ad hoc data requests by 30% and improving turnaround time for strategic decisions from weeks to days. 
 *	Developed predictive models to evaluate program impacts and measure effectiveness of student success interventions.
 *	Design and manage evaluation and reporting frameworks to ensure transparent, consistent, and evidence-based program review and strategic alignment. 
