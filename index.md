@@ -13,11 +13,6 @@ I'm the **Director of Business Intelligence and Analytics at Spelman College**, 
 
 
 ## More about my professional work:
-<a href="https://github.com/CyberFee/github.io/raw/main/Resume.pdf" 
-   class="btn" 
-   style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 20px;">
-   To view or download my resume, click here
-</a>
 
 <a href="Resume.pdf" class="btn" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 20px;">To view or download my resume, click here</a>
 
