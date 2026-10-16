@@ -13,7 +13,7 @@ My work centers data science, statistics and machine learning with equity focuse
 <a href="Resume.pdf" class="btn" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 20px;">To view or download my resume, click here</a>
 
 
-As the Business Intelligence Analyst at Spelman College and a master's candidate at Howard University, I've spent the last several years building the tools and frameworks that make institutional decisions more transparent. My published work and ongoing projects examine algorithmic systems in healthcare, housing, and public policy. I'm currently extending that lens to immigration trends through the framework of the African diaspora, asking how data can be used to tell a more complete and more just story
+As the Director of Business Intelligence and Analytics at Spelman College, I've spent the last several years building the tools and resources that help make institutional decisions more transparent. My published work and ongoing projects examine algorithmic systems in healthcare, housing, and public policy. I'm currently extending that lens to immigration trends through the framework of the African diaspora, asking how data can be used to tell a more complete and more just story
 
 
 ˙✦ **Translating Complexity:** Built policy-oriented ML analyses of gentrification and displacement in Atlanta — translating model outputs into neighborhood typologies useful for city planners and advocates.  
