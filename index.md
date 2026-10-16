@@ -2,17 +2,6 @@
 layout: default
 ---
 
-<style>
-.page-header small, 
-.project-tagline, 
-.downloads-list, 
- header small,
- .site-header small {
-    display: none !important;
-    visibility: hidden !important;
- }
-</style>
-
 ## Hi! I'm Felisha White
  
 Welcome to my GitHub page! This is where my work, research, and approach to data come together. I'll start with what I believe.
